@@ -1,3 +1,3 @@
-PT-> Aqui está um portiifolio básico sobre funções, criando uma calculadora, importando 
+PT-> Aqui está um portiifolio básico sobre funções, criando uma calculadora com funcionalidades de adição, subtração, multiplicação, divisão...criei funções separadas para caso precisasse fazer uma manutenção no código só mecheria na função em questão...
 -------------------------------------------------------------------------------------------------
-EN -> Here is a basic portfolio on functions, creating a calculator, importing
+<h3>EN -> EN-> Here is a basic portfolio on functions, creating a calculator with addition, subtraction, multiplication, division functionalities... I created separate functions so that if I needed to do any maintenance on the code, I would only tinker with the function in question...<h3>
